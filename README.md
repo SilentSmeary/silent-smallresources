@@ -1,1 +1,1 @@
-# Silent-SmallResources
+# silent-smallresources
