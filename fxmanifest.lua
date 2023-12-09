@@ -19,3 +19,6 @@ client_scripts {
 
 lua54 'yes'
 
+dependencies {
+    'ox_lib',
+}
